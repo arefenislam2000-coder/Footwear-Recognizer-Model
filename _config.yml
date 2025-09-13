@@ -1,0 +1,11 @@
+remote_theme: devlopr-jekyll@master
+plugins:
+  - jekyll-remote-theme
+
+title: Footwear Recognizer
+description: It is an image classification API that can classify 12 types of footwears
+
+author:
+  name: Arefen Islam Bappy
+
+
