@@ -6,7 +6,7 @@
   <a href="https://huggingface.co/spaces/Arefen017/Footwear-Recognizer-model" target="_blank">
     <img src="https://img.shields.io/badge/🤗-Try%20on%20HuggingFace-blue.svg?style=for-the-badge" alt="Hugging Face Demo" />
   </a>
-  <a href="https://github.com/arefenislam2000-coder/Footwear-Recognizer-" target="_blank">
+  <a href="https://github.com/arefenislam2000-coder/Footwear-Recognizer-Model" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-black.svg?style=for-the-badge&logo=github" alt="GitHub Repo" />
   </a>
 </p>
