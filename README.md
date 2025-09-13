@@ -14,7 +14,7 @@
 ---
 
 ## Project Overview
-The **Footwear Recognizer** is a deep learning model built with **FastAI** and **PyTorch** that can classify footwear into **12 categories**.  
+The **Footwear Recognizer** is a deep learning model built with **FastAI** that can classify footwear into **12 categories**.  
 It uses a ResNet-based CNN architecture, trained on a curated dataset of footwear images.  
 
 ### Key Features
