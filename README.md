@@ -1,4 +1,4 @@
-# Footwear Recognition Project  
+# Footwear Recognizer Model
 
 ![Demo of Footwear Recognizer](Deployment/gradio_app.png)  
 
