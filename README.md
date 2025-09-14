@@ -27,7 +27,7 @@ It uses a ResNet-based CNN architecture, trained on a curated dataset of footwea
 ---
 
 ## Data Collection & Cleaning
-- Data was collected from **web sources** (browser-based image scraping).  
+- Data was collected from **Bing images** (browser-based image scraping).  
 - Raw dataset contained significant **noise** (irrelevant objects, multi-class images, duplicates).  
 - Used **FastAI’s ImageClassifierCleaner** extensively to:  
   - Identify and remove mislabeled or noisy images  
